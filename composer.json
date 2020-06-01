@@ -1,0 +1,21 @@
+{
+    "name": "youliroam/phptool",
+    "description": "this is php tool class",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "youli",
+            "email": "youliroam@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "youliroam\\phptool\\": "src/Youliroam/Phptool"
+        }
+    }
+}

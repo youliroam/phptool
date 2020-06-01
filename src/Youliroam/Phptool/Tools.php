@@ -12,4 +12,9 @@ class Tools{
 
 		echo 'youliroam/phptool php tool class';
 	}
+
+	public function getuuid(){
+
+		return 1111111111;
+	}
 }
